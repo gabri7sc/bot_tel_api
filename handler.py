@@ -1,1 +1,0 @@
-python rossmann-bot.py
